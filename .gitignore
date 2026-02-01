@@ -1,7 +1,6 @@
 /[Aa]ssets/google-services.json
 /[Aa]ssets/Firebase/
-/Library/
-/Temp/
-/Logs/
-/UserSettings/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
 /[Bb]uild/
